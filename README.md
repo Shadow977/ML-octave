@@ -3,7 +3,7 @@
 
 All the codes are done in Ocatve-5.2.0
 
-Installion instructions:
+Installation instructions:
 
 1. First open terminal (Ctrl+Alt+T) and make sure Flatpak support is enabled by running command:
 
